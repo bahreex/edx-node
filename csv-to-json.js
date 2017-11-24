@@ -6,7 +6,7 @@ Time Taken for Testing: 20 Mins
 Time Taken for Documentation: 15 Mins
 Execution Time: 0.256 Seconds
 Development OS: Windows 10 1709
-Development Edito: VS Code 1.18.1
+Development Editor: VS Code 1.18.1
 */
 
 //Import the Core FS module
