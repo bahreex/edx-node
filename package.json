@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/bahreex/edx-node/issues"
   },
-  "homepage": "https://github.com/bahreex/edx-node#readme"
+  "homepage": "https://github.com/bahreex/edx-node#readme",
+  "dependencies": {
+    "csvtojson": "^1.1.9"
+  }
 }
